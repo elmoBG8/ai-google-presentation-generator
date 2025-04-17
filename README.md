@@ -129,7 +129,7 @@ The script provides detailed logging information to help track the generation pr
 
 ## License
 
-[MIT License](LICENSE)
+MIT License
 
 ## Acknowledgements
 
