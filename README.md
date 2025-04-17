@@ -119,7 +119,7 @@ The script provides detailed logging information to help track the generation pr
 - Very specific or niche topics might result in more generic content
 - The script has built-in delays to avoid API rate limits which may make the process take a few minutes
 
-## Future Improvements
+## Ideas for Future Improvements (I won't add them)
 
 - Support for image generation and insertion
 - More customization options for styling
